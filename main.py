@@ -112,5 +112,5 @@ async def setup_tickets(ctx):
 
 
 # Запуск бота через токен из переменных Railway
-TOKEN = os.getenv('TOKEN')
+TOKEN = os.getenv("TOKEN")
 bot.run(TOKEN)
