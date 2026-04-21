@@ -14,7 +14,7 @@ ADMIN_ROLE_IDS = [
     1491087158981693523
 ]
 
-GIF_URL = "https://media.discordapp.net/attachments/1483812220499398717/1491483610291634418/standard_6.gif"
+GIF_URL = "https://media.discordapp.net/attachments/1273284092309540877/1496209627161825380/standard.gif?ex=69e90d4d&is=69e7bbcd&hm=a8abc020669c3fe1a02f3637318c2ce4e06de6acbc3b6384d16ac2c5b67d5da1&="
 
 
 class CloseTicketView(discord.ui.View):
